@@ -1,6 +1,7 @@
 # AwesomeBooks
  
-A simple JavaScript Project that display bok Title and Author. When a user click on the add button, you have the value imputed added at the top of the page and when user clicks on Remove button it automatically remove the value input. 
+A simple JavaScript Project that display bok Title and Author. When a user click on the add button, you have the value imputed added at the top of the page and when user clicks on Remove button it automatically remove the value input. Modified the old code since it already match the project requirement.
+
 
 # Build with 
  - HTML 
