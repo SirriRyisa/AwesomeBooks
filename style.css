@@ -106,9 +106,9 @@ nav {
 .contact {
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-direction: column;
-  max-width: 50%;
-  margin: 0 auto;
+  width: 90%;
 }
 
 .contact p {
@@ -117,17 +117,22 @@ nav {
 }
 
 .contact-list {
-  max-width: 50%;
-  min-width: 25%;
+  width: 80%;
   list-style-type: disc;
   display: flex;
   flex-direction: column;
-  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
   font-size: 1.4rem;
+  margin-bottom: 15px;
+  text-align: center;
 }
 
 .contact-list li {
   margin-left: 1rem;
+  list-style-type: none;
+  width: 50%;
 }
 
 #footer {
