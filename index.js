@@ -1,5 +1,6 @@
 import './module/dateSet.js';
 import BookApp, { sectionBooks } from './module/classUpdate.js';
+
 const inputTitle = document.querySelector('.title');
 const inputAuthor = document.querySelector('.author');
 const addBtn = document.querySelector('.add-btn');
