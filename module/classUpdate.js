@@ -1,4 +1,4 @@
-import loadBooks from "../index.js";
+import loadBooks from '../index.js';
 
 export const sectionBooks = document.querySelector('.books');
 
