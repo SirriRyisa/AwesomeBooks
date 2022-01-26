@@ -1,6 +1,6 @@
 export const dateEl = document.querySelector('.date');
 
-const setDate = function () {
+const setDate = () => {
   const now = new Date();
   const options = {
     month: 'long',
