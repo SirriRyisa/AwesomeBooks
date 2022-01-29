@@ -1,5 +1,12 @@
 import './module/dateSet.js';
 import BookApp, { sectionBooks } from './module/classUpdate.js';
+import { DateTime } from './node_modules/luxon/src/luxon.js';
+
+const newDate = document.querySelector('.date');
+
+const currentTime = DateTime.local().toHTTP();
+
+newDate.innerHTML = currentTime;
 
 const inputTitle = document.querySelector('.title');
 const inputAuthor = document.querySelector('.author');
