@@ -10,11 +10,6 @@ Added Modules and made use of ES6
  - CSS
  - JavaScript
 
-## Live Demo
-
-[Live Demo Link](https://sirriryisa.github.io/Capstone-proj/)
-
-
 👤 **Author**
 - GitHub: [@githubhandle](https://github.com/SirriRyisa)
 - Twitter: [@twitterhandle](https://twitter.com/N_Ryisa)
@@ -29,3 +24,8 @@ Feel free to check the [issues page]().
 ## Show your support
 
  Give a ⭐️ if you like this project!
+
+ # Project setup
+ clone from githib
+ Run npm insatll to install all depencies 
+ npm start to run the projrct

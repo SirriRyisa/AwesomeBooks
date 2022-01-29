@@ -16,7 +16,7 @@ const findHight = () => {
   }
 };
 
-export default function loadBooks(bookCollection) {
+export default  function loadBooks(bookCollection) {
   sectionBooks.innerHTML = '';
   /* eslint-disable */
   if (bookCollection.length > 0) {
